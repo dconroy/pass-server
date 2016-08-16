@@ -1,5 +1,3 @@
-![Passbook](http://cl.ly/JPjc/title_passbook.png)
-
 [![Build Status](https://travis-ci.org/renstrom/passbook_flask_example.png)](https://travis-ci.org/renstrom/passbook_flask_example)
 
 # Passbook on Flask Example
